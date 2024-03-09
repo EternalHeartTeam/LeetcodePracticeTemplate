@@ -1,0 +1,22 @@
+{
+  "name": "leetcodepracticetemplate",
+  "version": "1.0.0",
+  "description": "A template project to use leetcode-practice......",
+  "scripts": {
+    "lc": "lc -d src",
+    "lk": "lk -d src",
+    "lf": "lk -d src",
+    "update": "npm install leetcode-practice@latest",
+  },
+  "keywords": [
+    "leetcode-practice",
+    "lc",
+    "lk",
+    "lf"
+  ],
+  "author": "EternalHeart",
+  "license": "ISC",
+  "dependencies": {
+    "leetcode-practice": "^1.0.4"
+  }
+}
