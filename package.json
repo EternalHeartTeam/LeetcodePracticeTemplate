@@ -16,7 +16,7 @@
   ],
   "author": "EternalHeart",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "leetcode-practice": "^1.0.4"
   }
 }
