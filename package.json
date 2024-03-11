@@ -5,8 +5,8 @@
   "scripts": {
     "lc": "lc -d src",
     "lk": "lk -d src",
-    "lf": "lk -d src",
-    "update": "npm install leetcode-practice@latest"
+    "lf": "lf -d src",
+    "update": "npm install --dev leetcode-practice@latest"
   },
   "keywords": [
     "leetcode-practice",
@@ -17,6 +17,6 @@
   "author": "EternalHeart",
   "license": "ISC",
   "devDependencies": {
-    "leetcode-practice": "^1.0.4"
+    "leetcode-practice": "^1.0.5"
   }
 }
