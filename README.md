@@ -1,28 +1,31 @@
-# LeetcodePracticeTemplate
-A template project to use leetcode-practice......
+# Leetcode Practice Template
+
+A template project for using LeetCode practice.
 
 ## Usage
 
-### 1. first step - install dependency
+### 1. First Step - Install Dependencies
 
-The only one dependency is `leetcode-practice`.
+The only dependency is `leetcode-practice`.
 
 ```shell
-# run npm i 
+# Install dependencies with npm
 npm i 
-# or run yarn
+
+# Or with yarn
 yarn
 ```
-### 2. second step - use npm run to run
 
-And then, you only need to run the command `npm run lc` to create the question today.
+### 2. Second Step - Run with npm
+
+After installing dependencies, run the command `npm run lc` to create today's question.
 
 ```shell
-# run lc to create
+# Create today's question
 npm run lc 
 ```
 
-and you can see the console, and the question be created at the directory `src`.
+You will see the console output, and the question will be created in the `src` directory.
 
 ```shell
 yarn run v1.22.19
@@ -33,16 +36,16 @@ MODE: today
 ✨  Done in 2.96s.
 ```
 
-### 3. third step - check your resolution
+### 3. Third Step - Check Your Solution
 
-Just run the command `npm run lk`.
+To check your solution, run the command `npm run lk`.
 
 ```shell
-# run lk to check
+# Check solution
 npm run lk
 ```
 
-and you can see(the example is empty code):
+You will see the results (the example shows an empty code):
 
 ```shell
 yarn run v1.22.19
@@ -60,17 +63,19 @@ MODE: today
 ✨  Done in 0.36s.
 ```
 
-### 4. forth step - if you want to search
+### 4. Fourth Step - Search
 
-If you want to search one question , you can use the `lf`.
+To search for a question, use `lf`.
 
 ```shell
-# run lf to search
+# Search for a question
 npm run lf
 ```
-and then follow the hints to search what you want.
+
+Follow the prompts to search for what you want.
+
 ```shell
-# such as I want to find the question two number of sum
+# For example, searching for the two number sum question
 yarn run v1.22.19
 $ lf -d src
 ? 请选择查找的模式? 关键词搜索
@@ -83,6 +88,6 @@ MODE: identity
 ✨  Done in 13.68s.
 ```
 
-## More...
+## More Information
 
-If you want to know more about the leetcode-practice. Please check the github : [leetcode-practice](https://github.com/EternalHeartTeam/leetcode-practice)
+For more information about `leetcode-practice`, please check the GitHub repository: [leetcode-practice](https://github.com/EternalHeartTeam/leetcode-practice)
