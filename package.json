@@ -6,7 +6,7 @@
     "lc": "lc -d src",
     "lk": "lk -d src",
     "lf": "lf -d src",
-    "update": "npm install --dev leetcode-practice@latest"
+    "update": "npm install --save-dev leetcode-practice@latest"
   },
   "keywords": [
     "leetcode-practice",
